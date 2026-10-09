@@ -1,69 +1,30 @@
-
 <!-- =========================================================
-     ANDREW VILLAMAR | GITHUB PROFILE README
-     Structure: Header, About, Technologies, Projects, Interests
+     ANDREW VILLAMAR | GITHUB PROFILE
      Required asset: cerebro.gif in the repository root
      ========================================================= -->
 
-
-<!-- =========================== HEADER =========================== -->
-
+<!-- ============================ HEADER =========================== -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="middle" align="left">
-
-      <h1>
-        Hi, I'm Andrew
-        <img
-          src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-          width="35"
-          alt="Waving hand"
-        >
-      </h1>
-
-      <a href="https://git.io/typing-svg">
-        <img
-          src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00599C&width=450&height=100&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Machine+Learning+%26+Neural+Networks"
-          alt="Animated introduction"
-        >
-      </a>
-
-      <p>
-        <a href="https://www.linkedin.com/in/andrew-villamar">
-          <img
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn"
-          >
-        </a>
-        <a href="mailto:andrew.villamar@alumnos.upm.es">
-          <img
-            src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-            alt="Email"
-          >
-        </a>
-      </p>
-
-    </td>
-
-    <td width="40%" valign="middle" align="center">
-      <img
-        src="./cerebro.gif"
-        width="300"
-        alt="Animated brain representing neuroscience and artificial intelligence"
-      >
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="middle" align="left">
+<h1>Hi, I'm Andrew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00599C&width=450&height=100&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Machine+Learning+%26+Neural+Networks" alt="Animated introduction"></a>
+<p><a href="https://www.linkedin.com/in/andrew-villamar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:andrew.villamar@alumnos.upm.es"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></p>
+</td>
+<!-- Aquí está la ruta relativa actualizada a "cerebro.gif" -->
+<td width="40%" valign="middle" align="center"><img src="cerebro.gif" width="280" alt="Animated brain representing neuroscience and artificial intelligence"></td>
+</tr>
 </table>
 
 ---
 
-<!-- =========================== ABOUT ============================ -->
+<!-- ============================ ABOUT ============================ -->
 
 ## 👨‍💻 About Me
 
 I'm a third-year undergraduate student pursuing a degree in **Data Science and Artificial Intelligence at the Technical University of Madrid (UPM)**.
 
-I'm interested in understanding how intelligent systems learn, interpret visual information, and solve complex computational problems. I enjoy combining mathematics, programming, and experimentation to understand not only how algorithms work, but also why they work.
+I'm interested in understanding how intelligent systems learn, interpret visual information, and solve computational problems. I enjoy combining mathematics, programming, and experimentation to understand not only how algorithms work, but also why they work.
 
 - 🎓 Studying Data Science and Artificial Intelligence at UPM.
 - 👁️ Interested in Computer Vision and Deep Learning.
@@ -74,49 +35,49 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 
 ---
 
-<!-- ========================= TECHNOLOGIES ======================= -->
+<!-- ========================= TECHNOLOGIES ======================== -->
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
 </p>
 
 ### Machine Learning & Scientific Computing
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
 
 ### Computer Vision
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
 </p>
 
 ### Development Environment
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
 
-<!-- =========================== PROJECTS ========================= -->
+<!-- ============================ PROJECTS ========================= -->
 
 ## 🚀 Projects & Academic Work
 
@@ -132,7 +93,7 @@ A computer vision prototype exploring how visual information from facial and lip
 
 **Technologies:** Python, PyTorch, OpenCV, MediaPipe.
 
-<!-- Add the project repository link here when available. -->
+<!-- Add the project repository link when available. -->
 
 ---
 
@@ -212,7 +173,7 @@ Academic work in natural language processing and computational methods for worki
 
 **Focus:** Natural language processing and text-oriented machine learning.
 
-<!-- Add the specific task, algorithms, and repository link here. -->
+<!-- Add the actual task, algorithms, and repository link when available. -->
 
 ---
 
@@ -222,11 +183,11 @@ Academic work exploring computational approaches to social phenomena and digital
 
 **Focus:** Social computing and computational analysis of human interaction.
 
-<!-- Add the specific task, datasets, and repository link here. -->
+<!-- Add the actual task, datasets, and repository link when available. -->
 
 ---
 
-<!-- =========================== INTERESTS ======================== -->
+<!-- =========================== INTERESTS ========================= -->
 
 ## 🔬 Research Interests
 
@@ -241,8 +202,6 @@ Academic work exploring computational approaches to social phenomena and digital
 
 ---
 
-<!-- ============================ FOOTER ========================== -->
+<!-- ============================ FOOTER =========================== -->
 
-<p align="center">
-  <i>Always learning, always exploring, always building.</i>
-</p>
+<p align="center"><i>Always learning, always exploring, always building.</i></p>
