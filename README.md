@@ -1,3 +1,10 @@
+<!-- Columna Derecha: El cerebro animado (Vídeo WebM actuando como GIF) -->
+<td width="45%" valign="middle" align="center" style="border: none; padding: 10px;">
+  <video src="https://github.com/user-attachments/assets/4732e6ac-4e61-4499-80bd-fb96f470c03e" autoplay loop muted playsinline width="100%" style="max-width: 300px; display: block; border-radius: 10px;"></video>
+</td>
+
+[stock-footage-human-brain-animation-of-glowing-neural-networks-electric-impulses-and-digital-connection.webm](https://github.com/user-attachments/assets/199bf77f-4a14-4c3a-91d0-ab1ba5a28464)
+
 <!-- ==================== HEADER ==================== -->
 <p align="center">
 <img width="1024" height="377" alt="image" src="https://github.com/user-attachments/assets/acd38fe0-56ba-4ff9-8e51-f342ff471235" />
