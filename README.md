@@ -40,6 +40,8 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 
 <!-- ========================= TECHNOLOGIES ======================== -->
 
+<!-- ========================= TECHNOLOGIES ======================== -->
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -52,6 +54,7 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" alt="MATLAB">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prolog/default.svg" height="28" alt="Prolog logo">
   <img src="https://img.shields.io/badge/Prolog-F46C30?style=for-the-badge" alt="Prolog">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
 ### Query Languages & Data Technologies
@@ -65,9 +68,10 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+    <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="28" alt="Scikit-learn logo">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00" alt="Pandas">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
 
@@ -75,8 +79,10 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 
 <p>
   <img src="https://matplotlib.org/stable/_static/logo_dark.svg" height="28" alt="Matplotlib logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" height="28" alt="Seaborn logo">
+
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" height="28" alt="Seaborn logo">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
+
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
