@@ -1,5 +1,3 @@
-<img width="1908" height="812" alt="image" src="https://github.com/user-attachments/assets/effd81c2-57df-4dc4-a567-6cd45bb83d04" />
-
 <!-- ==================== HEADER ==================== -->
 
 <h1 align="center">
@@ -7,13 +5,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
 </h1>
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=100&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Exploring+AI%2C+Graphs+%26+Mathematics" alt="Animated typing text">
   </a>
 </div>
-
----
 
 <!-- ==================== ABOUT ME ==================== -->
 
