@@ -44,38 +44,41 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="28" alt="MATLAB logo">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" alt="MATLAB">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prolog/default.svg" height="28" alt="Prolog logo">
-  <img src="https://img.shields.io/badge/Prolog-F46C30?style=for-the-badge" alt="Prolog">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
-### Query Languages & Data Technologies
+### 🗄️ Query Languages & Data Technologies
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/SPARQL-0C479D?style=for-the-badge" alt="SPARQL">
 </p>
 
-### Machine Learning & Scientific Computing
+### 📊 Data Science & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="28" alt="Scikit-learn logo">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00" alt="Pandas">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
 
-### Data Visualization
+### 🧠 Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+</p>
+
+### 📈 Data Visualization
 
 <p>
   <img src="https://matplotlib.org/stable/_static/logo_dark.svg" height="28" alt="Matplotlib logo">
@@ -86,14 +89,14 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-### Computer Vision
+### 👁️ Computer Vision
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
 </p>
 
-### Development Environment & Tools
+### ⚙️ Development Environment & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
