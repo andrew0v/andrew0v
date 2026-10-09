@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a third-year undergraduate student pursuing a degree in **Data Science and Artificial Intelligence at the Technical University of Madrid (UPM)**.
+I'm a third-year undergraduate student pursuing a degree in **Data Science and Artificial Intelligence at the Polytechnic University of Madrid (UPM)**.
 
 I'm interested in understanding how intelligent systems learn, interpret visual information, and solve computational problems. I enjoy combining mathematics, programming, and experimentation to understand not only how algorithms work, but also why they work.
 
