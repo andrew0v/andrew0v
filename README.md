@@ -130,20 +130,6 @@ Academic projects focused on statistical learning, data processing, and predicti
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages">
-
-</div>
-
----
-
 <!-- ==================== CONTACT ==================== -->
 
 ## 🤝 Let's Connect!
@@ -151,10 +137,10 @@ Academic projects focused on statistical learning, data processing, and predicti
 I'm always interested in learning, collaborating, and exploring new ideas in artificial intelligence.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/andrew-villamar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:andrew.villamar@alumnos.upm.es">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
