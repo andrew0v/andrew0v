@@ -1,16 +1,26 @@
 <!-- ==================== HEADER ==================== -->
+<p align="center">
+<img width="1024" height="377" alt="image" src="https://github.com/user-attachments/assets/acd38fe0-56ba-4ff9-8e51-f342ff471235" />
+</p>
 
-<h1 align="center">
-  Hi, I'm Andrew
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
-</h1>
-
-
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=100&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Exploring+AI%2C+Graphs+%26+Mathematics" alt="Animated typing text">
+    <!-- Animación a la izquierda -->
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=850&height=50&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Exploring+AI%2C+Graphs+%26+Mathematics" alt="Animated typing text">
   </a>
 </div>
+
+<p align="left" style="margin-top: 5px; margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/andrew-villamar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:andrew.villamar@alumnos.upm.es" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+
+
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -128,21 +138,8 @@ Academic projects focused on statistical learning, data processing, and predicti
 
 ---
 
-<!-- ==================== CONTACT ==================== -->
-
-## 🤝 Let's Connect!
-
-I'm always interested in learning, collaborating, and exploring new ideas in artificial intelligence.
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrew-villamar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:andrew.villamar@alumnos.upm.es">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<div align="center">
   <i>Always learning, always exploring, always building.</i>
-</div>
+</p>
