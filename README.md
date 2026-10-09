@@ -8,7 +8,7 @@
 <tr>
 <td width="60%" valign="middle" align="left">
 <h1>Hi, I'm Andrew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=500&color=00599C&width=450&height=100&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Machine+Learning+%26+Neural+Networks;%20" alt="Animated introduction"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=4000&pause=500&color=00599C&width=450&height=100&lines=Data+Science+%26+AI+Student+at+UPM;Computer+Vision+%26+Deep+Learning;Python+%7C+PyTorch+%7C+OpenCV;Machine+Learning+%26+Neural+Networks;%20" alt="Animated introduction"></a>
 <p><a href="https://www.linkedin.com/in/andrew-villamar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:andrew.villamar@alumnos.upm.es"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></p>
 </td>
 <td width="40%" valign="middle" align="center">
