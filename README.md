@@ -37,6 +37,8 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 
 <!-- ========================= TECHNOLOGIES ======================== -->
 
+<!-- ========================= TECHNOLOGIES ======================== -->
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -55,6 +57,14 @@ I'm interested in understanding how intelligent systems learn, interpret visual 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+</p>
+
+### Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
 ### Computer Vision
